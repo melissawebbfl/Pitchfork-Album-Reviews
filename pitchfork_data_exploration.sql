@@ -3,7 +3,7 @@
 	Melissa Webb
     
 	Description: This database contains information related to over 18,000 music album reviews posted on a website called Pitchfork between the years 1999 and 2017.
-    	The following tables are contained in the database: reviews, artists, genres, labels
+    The following tables are contained in the database: reviews, artists, genres, labels
 	
 	Skills used: CTE's, joins, aggregate functions, subqueries, partition by, group by
 	
